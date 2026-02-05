@@ -17,7 +17,7 @@ I am a System Administrator with over 1.5 years of experience managing complex p
 | **Automation/Scripting** | PowerShell |
 | **Systems** | Windows Server 2012-2022, Active Directory, M365 |
 | **Networking** | TCP/IP, DNS, DHCP, VPN, VLANs, Firewalls |
-| **Security** | SentinelOne, IPS/IDS Rules, System Hardening |
+| **Security** | SentinelOne, IPS/IDS Rules, System Hardening, Adlumin |
 
 ### 📈 Current Learning Path
 * ☁️ **Cloud Infrastructure:** Working toward my first Cloud Certification.
