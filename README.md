@@ -9,6 +9,7 @@ I am a System Administrator with over 1.5 years of experience managing complex p
 * **Enterprise Win11 Compatibility Tool:** Developed a PowerShell script deployed across 1,000+ endpoints to automate hardware audits, saving 40+ hours of manual labor.
 * **Automated Alert-to-Ticket System:** Integrated N-central with Dell server services to automate incident creation, reducing time-to-remedy by 30%.
 * **Rapid Security Patch Deployer:** Authored custom PowerShell scripts for immediate deployment of critical security patches across multi-client environments.
+*
 
 ### 🛠️ Tech Stack & Skills
 | Category | Tools & Technologies |
