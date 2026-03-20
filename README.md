@@ -1,7 +1,7 @@
 # Hi, I'm Mario Aguilar! 👋
-### Aspiring Cloud Engineer | System Administrator | Automation Enthusiast
+### System Administrator | Automation Enthusiast
 
-I am a System Administrator with over 1.5 years of experience managing complex production environments. I specialize in infrastructure monitoring and incident management, with a current focus on transitioning into **Cloud Architecture and DevOps**.
+I am a System Administrator with over 1.5 years of experience managing complex production environments. I specialize in infrastructure monitoring and incident management.
 
 ---
 
