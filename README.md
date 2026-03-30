@@ -1,31 +1,47 @@
 # Hi, I'm Mario Aguilar! 👋
-### System Administrator | Automation Enthusiast
+### Infrastructure Automation Engineer | System Administrator
+**📍 Relocating to San Antonio, TX | Q2 2026**
 
-I am a System Administrator with over 1.5 years of experience managing complex production environments. I specialize in infrastructure monitoring and incident management.
+I am a results-driven System Administrator specializing in **enterprise-scale automation** and infrastructure modernization. With a Bachelor’s in Computer & IT, I focus on bridging the gap between legacy systems and automated, high-availability environments.
 
 ---
 
-### 🚀 Automation & Scripting Projects
-* **Enterprise Win11 Compatibility Tool:** Developed a PowerShell script deployed across 1,000+ endpoints to automate hardware audits, saving 40+ hours of manual labor.
-* **Automated Alert-to-Ticket System:** Integrated N-central with Dell server services to automate incident creation, reducing time-to-remedy by 30%.
-* **Rapid Security Patch Deployer:** Authored custom PowerShell scripts for immediate deployment of critical security patches across multi-client environments.
-* **[PowerShell Automation Masterlist](https://github.com/Marioaaj/PowerShell-Script-Masterlist):** A curated repository of production-ready scripts, including automated RMM-deployed remediation for legacy driver vulnerabilities (`ltmdm64.sys`) and workstation process management tools.
+### 🚀 Featured Projects
 
+* **[Enterprise Win11 Readiness Pipeline](https://github.com/Marioaaj/Win11-Readiness-Data-Pipeline)**
+    * Engineered a two-stage data pipeline using **PowerShell** for hardware diagnostics and **Python** for automated ETL/log parsing. 
+    * Deployed across **1,000+ endpoints** for 30+ corporate clients, reducing manual audit labor by **90%** and securing budget approval for hardware refreshes.
+* **[PowerShell Automation Masterlist](https://github.com/Marioaaj/PowerShell-Script-Masterlist)**
+    * A production-ready repository featuring my **Rapid Security Patch Deployer** for immediate, multi-client remediation and RMM-deployed fixes for legacy driver vulnerabilities.
+* **Automated Alert-to-Ticket System**
+    * Integrated N-central with Dell server services to automate incident creation, reducing **Time-to-Remedy (TTR) by 30%** via automated service monitoring.
+
+---
 
 ### 🛠️ Tech Stack & Skills
+
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Cloud & Virtualization** | VMware vSphere, Hyper-V, (Learning: Azure/AWS) |
-| **Automation/Scripting** | PowerShell |
-| **Systems** | Windows Server 2012-2022, Active Directory, M365 |
-| **Networking** | TCP/IP, DNS, DHCP, VPN, VLANs, Firewalls |
-| **Security** | SentinelOne, IPS/IDS Rules, System Hardening, Adlumin |
-
-### 📈 Current Learning Path
-* ☁️ **Cloud Infrastructure:** Working toward my first Cloud Certification.
-* ♾️ **CI/CD Pipelines:** Exploring GitHub Actions for automated testing.
-* 🏗️ **Infrastructure as Code:** Dabbling in Terraform for resource provisioning.
+| **Automation & Scripting** | **PowerShell (Advanced), Python (ETL / Regex)** |
+| **Virtualization** | VMware vSphere, Hyper-V, ESXi |
+| **Systems & Identity** | Windows Server 2012-2022, Active Directory, Azure AD, M365 |
+| **Security & Monitoring** | SentinelOne, N-Central, Adlumin, GPO Hardening |
+| **Networking** | TCP/IP, VLANs, VPN (WireGuard/Tailscale), Firewalls |
 
 ---
+
+### 📈 Current Learning Path
+
+* ☁️ **Cloud Infrastructure:** Architecting for AWS & Azure Environments.
+* ♾️ **CI/CD & DevOps:** Implementing GitHub Actions for infrastructure testing.
+* 🏗️ **Infrastructure as Code:** Developing resource provisioning via Terraform.
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/mario-a-aguilar](https://www.linkedin.com/in/mario-a-aguilar)
+* **Email:** [mario661962@yahoo.com]
+* **Location:** Based in McAllen, TX | **Actively Relocating to San Antonio, TX**
 
 *"Automating the boring stuff so I can build the cool stuff."*
