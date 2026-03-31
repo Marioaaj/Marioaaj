@@ -22,7 +22,7 @@ I am a results-driven System Administrator specializing in **enterprise-scale au
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Automation & Scripting** | **PowerShell (Advanced), Python (ETL / Regex)** |
+| **Automation & Scripting** | **PowerShell , Python ** |
 | **Virtualization** | VMware vSphere, Hyper-V, ESXi |
 | **Systems & Identity** | Windows Server 2012-2022, Active Directory, Azure AD, M365 |
 | **Security & Monitoring** | SentinelOne, N-Central, Adlumin, GPO Hardening |
