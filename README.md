@@ -1,6 +1,6 @@
 # Hi, I'm Mario Aguilar! 👋
 ### Infrastructure Automation Engineer | System Administrator
-**📍 Relocating to San Antonio, TX | Q2 2026**
+**📍 Relocating to Austin, TX | Q2 2026**
 
 I am a results-driven System Administrator specializing in **enterprise-scale automation** and infrastructure modernization. With a Bachelor’s in Computer & IT, I focus on bridging the gap between legacy systems and automated, high-availability environments.
 
@@ -42,6 +42,6 @@ I am a results-driven System Administrator specializing in **enterprise-scale au
 
 * **LinkedIn:** [linkedin.com/in/mario-a-aguilar](https://www.linkedin.com/in/mario-a-aguilar)
 * **Email:** [mario661962@yahoo.com]
-* **Location:** Based in McAllen, TX | **Actively Relocating to San Antonio, TX**
+* **Location:** Based in McAllen, TX | **Actively Relocating to Austin, TX**
 
 *"Automating the boring stuff so I can build the cool stuff."*
