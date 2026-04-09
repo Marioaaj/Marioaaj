@@ -12,7 +12,11 @@ I am a results-driven System Administrator specializing in **enterprise-scale au
     * Engineered a two-stage data pipeline using **PowerShell** for hardware diagnostics and **Python** for automated ETL/log parsing. 
     * Deployed across **1,000+ endpoints** for 30+ corporate clients, reducing manual audit labor by **90%** and securing budget approval for hardware refreshes.
 * **[PowerShell Automation Masterlist](https://github.com/Marioaaj/PowerShell-Script-Masterlist)**
-    * A production-ready repository featuring my **Rapid Security Patch Deployer** for immediate, multi-client remediation and RMM-deployed fixes for legacy driver vulnerabilities.
+    * A production-ready repository featuring my **Rapid Security Patch Deployer** for immediate, multi-client remediation and RMM-deployed fixes for legacy driver vulnerabilities
+*  **[Automated Identity Lifecycle Engine](https://github.com/Marioaaj/Automated-Identity-Engine)**
+    * Architected a containerized onboarding workflow in **n8n** using **JavaScript** to automate identity provisioning for a demo-domain.
+    * Developed a **Switch-based Decision Engine** for Role-Based Access Control (RBAC), routing users to specific M365 licensing tiers based on department metadata.
+    * Engineered the solution to run within **Hardened Alpine Linux** containers, ensuring high security and a minimal attack surface..
 * **Automated Alert-to-Ticket System**
     * Integrated N-central with Dell server services to automate incident creation, reducing **Time-to-Remedy (TTR) by 30%** via automated service monitoring.
 
