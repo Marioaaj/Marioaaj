@@ -10,7 +10,7 @@ I am a results-driven System Administrator specializing in **enterprise-scale au
 
 * **[Enterprise Win11 Readiness Pipeline](https://github.com/Marioaaj/Win11-Readiness-Data-Pipeline)**
     * Engineered a two-stage data pipeline using **PowerShell** for hardware diagnostics and **Python** for automated ETL/log parsing. 
-    * Deployed across **1,000+ endpoints** for 30+ corporate clients, reducing manual audit labor by **90%** and securing budget approval for hardware refreshes.
+    * Deployed across **1,000+ endpoints** for 30+ corporate clients, reducing manual audit labor by **~85%** and securing budget approval for hardware refreshes.
 * **[PowerShell Automation Masterlist](https://github.com/Marioaaj/PowerShell-Script-Masterlist)**
     * A production-ready repository featuring my **Rapid Security Patch Deployer** for immediate, multi-client remediation and RMM-deployed fixes for legacy driver vulnerabilities
 *  **[Automated Identity Lifecycle Engine](https://github.com/Marioaaj/Automated-Identity-Engine)**
