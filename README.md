@@ -1,6 +1,6 @@
 # Hi, I'm Mario Aguilar! 👋
 ### Infrastructure Automation Engineer | System Administrator
-**📍 Relocating to Austin, TX | Q2 2026**
+**📍 Relocating to Austin, TX**
 
 I am a results-driven System Administrator specializing in **enterprise-scale automation** and infrastructure modernization. With a Bachelor’s in Computer & IT, I focus on bridging the gap between legacy systems and automated, high-availability environments.
 
@@ -28,17 +28,10 @@ I am a results-driven System Administrator specializing in **enterprise-scale au
 | :--- | :--- |
 | **Automation & Scripting** | **PowerShell , Python ** |
 | **Virtualization** | VMware vSphere, Hyper-V, ESXi |
-| **Systems & Identity** | Windows Server 2012-2022, Active Directory, Azure AD, M365 |
-| **Security & Monitoring** | SentinelOne, N-Central, Adlumin, GPO Hardening |
+| **Systems & Identity** | Windows Server 2012-2022, Active Directory,  M365 |
+| **Security & Monitoring** | SentinelOne, N-Central, Adlumin,  |
 | **Networking** | TCP/IP, VLANs, VPN (WireGuard/Tailscale), Firewalls |
 
----
-
-### 📈 Current Learning Path
-
-* ☁️ **Cloud Infrastructure:** Architecting for AWS & Azure Environments.
-* ♾️ **CI/CD & DevOps:** Implementing GitHub Actions for infrastructure testing.
-* 🏗️ **Infrastructure as Code:** Developing resource provisioning via Terraform.
 
 ---
 
