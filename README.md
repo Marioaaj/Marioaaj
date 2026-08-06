@@ -28,11 +28,6 @@ here came out of problems nobody assigned me.
   process termination, AD user moves, group membership auditing, and shortcut
   deployment.
 
-* **[Identity Lifecycle Automation](https://github.com/Marioaaj/Automated-Identity-Engine)**
-  Onboarding workflow built in n8n with JavaScript, running in hardened Alpine
-  Linux containers. Routes new users to M365 licensing tiers based on department
-  metadata via a switch-based decision path. Built against a demo domain.
-
 * **Alert-to-Ticket Automation** *(internal — not public)*
   Service monitoring in N-Central for a Dell server fleet with automatic ticket
   creation on failure. Reduced time-to-remedy by 31%.
