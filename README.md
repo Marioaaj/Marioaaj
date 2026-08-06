@@ -66,21 +66,20 @@ here came out of problems nobody assigned me.
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Scripting & Automation** | PowerShell, Python, n8n |
+| **Scripting & Automation** | PowerShell, Python |
 | **Systems & Identity** | Windows Server 2012 R2–2022, Active Directory, Microsoft 365 |
 | **Virtualization** | Hyper-V — VM management, backup and restore, host administration via RMM |
 | **Security** | SentinelOne, Cisco Duo, Microsoft Defender, BitLocker, Adlumin |
 | **Monitoring & RMM** | N-Central, Cove Data Protection |
 | **Networking** | TCP/IP, VLANs, DHCP, QoS, Peplink firewalls, OpenVPN site-to-site & per-user, Cambium wireless |
 | **Databases** | MySQL / MariaDB — tuning, slow-query analysis, upgrades |
-| **Homelab** | WireGuard, Tailscale, Docker |
+| **Homelab** | WireGuard, Tailscale |
 
 ---
 
-### 📫 Connect with Me
+### 📫 Contact
 
-* **LinkedIn:** [linkedin.com/in/mario-a-aguilar](https://www.linkedin.com/in/mario-a-aguilar)
-* **Email:** [mario661962@yahoo.com]
-* **Location:** Based in McAllen, TX | **Actively Relocating to Austin, TX**
+**LinkedIn:** [mario-a-aguilar](https://linkedin.com/in/mario-a-aguilar)
+**Email:** mario661962@yahoo.com
 
-*"Automating the boring stuff so I can build the cool stuff."*
+> *"Automating the boring stuff so I can build the cool stuff."*
