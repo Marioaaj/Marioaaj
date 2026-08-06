@@ -1,5 +1,5 @@
 # Hi, I'm Mario Aguilar! 👋
-### Infrastructure Automation Engineer | System Administrator
+System Administrator
 **📍 Relocating to Austin, TX**
 
 I am a results-driven System Administrator specializing in **enterprise-scale automation** and infrastructure modernization. With a Bachelor’s in Computer & IT, I focus on bridging the gap between legacy systems and automated, high-availability environments.
